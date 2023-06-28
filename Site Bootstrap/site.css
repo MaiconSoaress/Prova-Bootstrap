@@ -1,0 +1,101 @@
+.cor{
+	color: darkred;
+}
+#cima{
+	background-color: #C8B40A;
+}
+#back{
+	background-color: darkred;
+}
+#kkk{
+	color: red;
+}
+#back{
+	background-color: blueviolet;
+}
+
+.col > img{
+	width: 200px;
+	
+}
+#chuteira , #mulher, #bola, #mesa , #homem, #meiao{
+	width: 200px;
+	height: 250px;
+	
+}
+.col{
+	
+	overflow: hidden;
+}
+.zoom {
+	max-width: 100%;
+	transition: all 0.3s;
+}
+.zoom:hover {
+  transform: scale(1.1);
+}
+
+#botao{
+	display: flex;
+}
+.texto{
+	text-align: center;
+}
+.carousel-caption{
+
+}
+.card{
+	margin: auto;
+}
+#imagens{
+	background-color: black;
+}
+.centro{
+	text-align: center;
+	color: red;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+#myBtn {
+  width: 80px;
+  height: 60px;
+  display: none;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  z-index: 999;
+  font-size: 30px;
+  border: none;
+  outline: none;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 1px;
+  transition: 1s;
+
+}
+
+#myBtn:hover {
+  font-size: 35px;
+ 
+}
+.rodape{
+
+  justify-content: center;
+}
+.nav{
+	margin: auto;
+}
+.am{
+	text-align: center;
+	
+}
+#ins{
+	display: flex;
+  justify-content: center;
+  align-items: center;
+}
